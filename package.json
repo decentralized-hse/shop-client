@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-material-design-icons": "^5.0.0",
+    "vue-router": "^4.0.13",
+    "vue3-material": "^1.0.8"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
